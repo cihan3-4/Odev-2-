@@ -1,0 +1,20 @@
+.metin
+{
+    text-align: center;
+}
+div#container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    text-align: left;
+}
+
+.sol {
+    width: 30em;
+}
+.sag {
+    width: 70em;
+}
+.banner {
+    margin-left: 54em;
+}
